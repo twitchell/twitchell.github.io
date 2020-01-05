@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Joshua
+subtitle: DevOps Engineer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a DevOps Engineer currently working at Worldpay.  I am passionate about automating all things and my latest adventures have been in PowerShell.  All opinions that I express are my own and not the opinions of my employer.  All items presented on this page are done either off-hours or with permission from my employer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
